@@ -1,0 +1,14 @@
+{
+  "name": "voice-agent-websocket",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
+    "express": "^4.18.2",
+    "ws": "^8.16.0",
+    "node-fetch": "^3.3.2"
+  }
+}
